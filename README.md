@@ -9,5 +9,6 @@ The indegree of a vertex is the number of edges pointing to it.
 
 ![](https://user-images.githubusercontent.com/6517308/71645678-802cd500-2ca1-11ea-96fb-11a71fd95191.jpg)
 
-**When drawing a directed graph, the edges are typically drawn as arrows indicating the direction, as illustrated in the following figure.
+** When drawing a directed graph, the edges are typically drawn as arrows indicating the direction, as illustrated in the following figure.
+
 ![](https://mathinsight.org/media/image/image/small_directed_network_labeled.png)
