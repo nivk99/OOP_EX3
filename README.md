@@ -42,7 +42,7 @@ Graphs are directly applicable to real-world scenarios. For example, we could us
 
 
 ## Explanation of the project
- the OOP_Ex3 wiki! For more explanation for each Class click here
+ the OOP_Ex3 wiki! [For more explanation for each Class click here](https://github.com/nivk99/OOP_Ex3/wiki)
 
 
 ## 🔗Links🔗:
