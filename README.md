@@ -3,6 +3,13 @@
 
 # OOP_Ex3  - This task implements a data structure of a weighted and directed graph in Python, the implementation includes a class of graphs as well as a class of algorithms on graphs.
 
+## Types of Graphs
+
+Undirected: if for every pair of connected nodes, you can go from one node to the other in both directions.
+
+Directed: if for every pair of connected nodes, you can only go from one node to another in a specific direction. We use arrows instead of simple lines to represent directed edges.
+
+
 ## Weighted and Directed graph
 A weighted directed graph is represented as a list of (vertex-edgelist) pairs, where the pairs are in standard order , the edgelist is a list of (neighbor-weight) pair also in standard order, every weight is a nonnegative integer, and every neighbor appears as a vertex even if it has no neighbors itself." A common operation on weighted (directed) graphs is the shortest-path computation; the determination of the path(s) from two nodes A and B such that the sum of the weights of the vertices on the path is minimal
 
@@ -20,6 +27,14 @@ The indegree of a vertex is the number of edges pointing to it.
 
 
 ![](https://user-images.githubusercontent.com/6517308/71645678-802cd500-2ca1-11ea-96fb-11a71fd95191.jpg)
+
+
+## Applications
+Graphs are directly applicable to real-world scenarios. For example, we could use graphs to model a transportation network where nodes would represent facilities that send or receive products and edges would represent roads or paths that connect them (see below).
+
+![](https://www.freecodecamp.org/news/content/images/2020/06/image-121.png)
+
+
 
 #### When drawing a directed graph, the edges are typically drawn as arrows indicating the direction, as illustrated in the following figure.
 
