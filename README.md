@@ -1,3 +1,6 @@
+![](https://camo.githubusercontent.com/b803cfcca0b874c6116fab9bbc05878b4ab7096770ea51b1a30a7bbc8e2de3f5/68747470733a2f2f7777772e617269656c2e61632e696c2f77702f736974652f77702d636f6e74656e742f75706c6f6164732f73697465732f332f323031382f30372f417269656c5f555f6c6f676f322e6a7067)
+
+
 # OOP_Ex3  - This task implements a data structure of a weighted and directed graph in Python, the implementation includes a class of graphs as well as a class of algorithms on graphs.
 
 ## Weighted and Directed graph
@@ -23,6 +26,10 @@ The indegree of a vertex is the number of edges pointing to it.
 ![](https://mathinsight.org/media/image/image/small_directed_network_labeled.png)
 
 
+## Explanation of the project
+The OOP_Ex2 wiki! For more explanation for each Class click here
+
+
 ## 🔗Links🔗:
 
 [Directed graph](https://www.youtube.com/watch?v=-9I7J2UTC-Q)
@@ -36,5 +43,11 @@ The indegree of a vertex is the number of edges pointing to it.
 
 ## ✨Diagram class✨
 ![](https://github.com/nivk99/OOP_Ex3/blob/main/dig.png)
+
+
+## ©️license & copyright©️:
+© Kotek Niv 📧 <niv.kotek@msmail.ariel.ac.il >
+
+© Shevach Aviv 📧 <aviv.shevach@msmail.ariel.ac.il >
 
 
