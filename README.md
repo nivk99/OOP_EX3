@@ -1,4 +1,4 @@
-# OOP_Ex3  
+# OOP_Ex3  - This task implements a data structure of a weighted and directed graph in Python, the implementation includes a class of graphs as well as a class of algorithms on graphs.
 
 ## Weighted and Directed graph
 A weighted directed graph is represented as a list of (vertex-edgelist) pairs, where the pairs are in standard order , the edgelist is a list of (neighbor-weight) pair also in standard order, every weight is a nonnegative integer, and every neighbor appears as a vertex even if it has no neighbors itself." A common operation on weighted (directed) graphs is the shortest-path computation; the determination of the path(s) from two nodes A and B such that the sum of the weights of the vertices on the path is minimal
