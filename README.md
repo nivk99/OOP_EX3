@@ -35,6 +35,6 @@ The indegree of a vertex is the number of edges pointing to it.
 
 
 ## ✨Diagram class✨
-
+![](https://github.com/nivk99/OOP_Ex3/blob/main/dig.png)
 
 
