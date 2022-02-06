@@ -63,6 +63,4 @@ Graphs are directly applicable to real-world scenarios. For example, we could us
 ## ©️license & copyright©️:
 © Kotek Niv 📧 <niv.kotek@msmail.ariel.ac.il >
 
-© Shevach Aviv 📧 <aviv.shevach@msmail.ariel.ac.il >
-
 
